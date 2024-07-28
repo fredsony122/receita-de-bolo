@@ -1,0 +1,46 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 600px;
+    margin: auto;
+    color: #535353;
+    padding: 0.5rem;
+}
+
+
+h1, h2{
+    background-color: #fd7e07;
+    padding: 10px;
+    color: #fff;
+}
+
+h1{
+    margin: 0px;
+
+}
+
+.centralizar{
+    text-align: center;
+}
+
+ol, ul{
+    line-height: 40px;
+}
+
+.btn-youtube{  
+    background-color: #fd4d07;
+    color: #fff; 
+    text-decoration: none;
+    padding: 15px 32px;
+     display: inline-block;
+     border: 10px;
+     font: 16px;
+     margin-top: 10px;
+}
+
+.btn-youtube:hover{
+background-color: #0720fdd9;}
+
+footer{
+    margin-top: 30px;
+    text-align: center;
+}
